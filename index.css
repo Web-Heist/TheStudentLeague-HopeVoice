@@ -6,18 +6,18 @@ html body{
 }
 
 .firstpagebg{
-    background-image:url(people-3175023_1280.jpg);
+    background-image:url(helping-4661809_1280.jpg);
     background-repeat:no-repeat; background-size:cover;
     background-position:center; width:100%; height:100rem;}
 
 .firstpagebg ul{ margin-left:57%; margin-top:2rem; 
     font-size:1.1rem; position:sticky; top:0; z-index:30;}
-.nav-link{color:rgb(255, 0, 0);}
+.nav-link{color:white;}
 
 
-.content h3{font-size:1.9rem; margin-top:15rem; margin-left:7%; position:absolute;
+.content h3{font-size:1.9rem; margin-top:20rem; margin-left:7%; position:absolute;
      font-size:2.5rem; font-family:'Black Ops One',Impact,Fantasy; opacity:0; visibility: hidden;
-     color:rgb(255, 0, 0); font-weight:bold; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
+     color:white; animation-direction:normal; word-spacing:0.5rem; opacity:1;}
 
      .t1{animation: t 4s 0s forwards ; animation-timing-function:linear;}
      .t2{animation: t 0.5s 4s forwards ; animation-timing-function:linear;}
@@ -28,8 +28,8 @@ html body{
      .t7{animation: t 2s 11s forwards ; animation-timing-function:linear;}
      .t8{animation: t 0.5s 13s forwards ; animation-timing-function:linear;}
      .t9{animation: t 2s 13.5s forwards ; animation-timing-function:linear;}
-     .t10{animation: t 2s 16.5s forwards ; animation-timing-function:linear;}
-     .t11{animation: t 1s 18.5s forwards ; animation-timing-function:linear;}
+     .t10{animation: t 2s 15.5s forwards ; animation-timing-function:linear;}
+     .t11{animation: t 1s 17.5s forwards ; animation-timing-function:linear;}
 
 .text.show {
     visibility: visible;
@@ -38,7 +38,7 @@ html body{
 .logo{ width:30rem; position:absolute; 
     margin-top:-6rem; margin-left:28%}
 
-.botpic{width:32rem; height:32.5rem; position:absolute; margin-left:5rem; margin-top:24rem;}
+.botpic{width:24rem; height:20rem; position:absolute; margin-left:5rem; margin-top:28rem;}
 .gearpic{width:20rem; height:18rem; z-index:10; position:absolute; margin-left:70rem; margin-top:78rem;}
 
 .c1{ position: absolute;
@@ -111,13 +111,13 @@ background-image: linear-gradient(to right, rgb(60, 55, 68), rgba(160, 151, 152,
 
 
  @media  only screen and (width <= 700px) { html{font-size:50%;} 
- .logo{margin-top:-9rem; margin-left:3%;}  .card-text{font-size:0.8rem; margin-top:1rem;}
- .botpic{width:18rem; height:20rem; margin-top:35.5rem; margin-left:2%;}
- .gearpic{width:12rem; height:9.5rem; margin-top:81rem; margin-left:71%;}
+ .logo{margin-top:-8rem; margin-left:3%;} .card-text{font-size:0.8rem; margin-top:1rem;}
+ .botpic{width:14rem; height:13rem; margin-top:41rem; margin-left:2%;}
+ .gearpic{width:12.5rem; height:10.5rem; margin-top:81rem; margin-left:71%;}
  .c1{width:17rem; height:15rem; margin-top:25rem; margin-left:32%;} 
  .c2{width:17rem; height:15rem; margin-top:38rem; margin-left:60%;} 
  .c3{width:17rem; height:15rem;  margin-top:55rem; margin-left:2%;} 
  .c4{width:17rem; height:15rem;  margin-top:68rem; margin-left:30%;}
- html body{ width:100%; overflow-x:hidden;} .content h3{font-family:'Black Ops One',Impact,Fantasy;  font-size:3rem; word-spacing:0.1rem; margin-top:17rem;}
+ html body{ width:100%; overflow-x:hidden;} .content h3{font-family:'Black Ops One',Impact,Fantasy; font-size:3rem; word-spacing:0.1rem; margin-top:17rem;}
  .firstpagebg{width:100%; overflow-x:hidden;}
 }
